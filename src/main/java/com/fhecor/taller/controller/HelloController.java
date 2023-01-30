@@ -1,4 +1,4 @@
-package com.fhecor.taller;
+package com.fhecor.taller.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
